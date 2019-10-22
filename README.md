@@ -1,5 +1,5 @@
 # Print_Hello_World
-1. Add a "Hello, World!" program
+1. Add a "Hello, World!" program.
 Add your Hello World program to the code directory in any language of your choice.The file name should not match with an already present file. Add your File to the language folder. If there is no language folder, make one, then add into it.
 
 2. Add your name
